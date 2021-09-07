@@ -2,4 +2,4 @@ italy
 europe
 japan
 london
-mexico
+mexico city
